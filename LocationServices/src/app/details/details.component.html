@@ -1,0 +1,24 @@
+
+    <img class="details-photo" [src] = "housingLocation?.photo" />
+
+<section>
+    <h2>{{housingLocation?.name}}</h2>
+    <p>{{housingLocation?.city}}, {{housingLocation?.state}}</p>
+</section>
+
+<section class="user-apply">
+    <h2 class="apply-heading">Apply now to get more details</h2>
+    <form [formGroup]="applyForm" (submit)="submitApplication()">
+        <label for="first-name">First Name</label>
+        <input id="first-name" type="text" formControlName="firstName">
+        <label for="last-name">Last Name</label>
+        <input id="last-name" type="text" formControlName="lastName">
+        <label for="email">Email</label>
+        <input id="email" type="text" formControlName="email">
+        <button type="submit"  class="primary">Apply Now</button> 
+    </form>
+</section>
+
+
+
+

@@ -1,0 +1,39 @@
+.details-photo{
+    height: 400px;
+    width: 50%;
+    object-fit: cover;
+}
+
+label, input{
+display: block;
+}
+
+label{
+    color: var(--secondary-color);
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 12pt;
+    padding: 5px;
+}
+
+input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: var(--secondary-color);
+    border-bottom:solid .3px;
+    padding: 5px;
+    margin-left: 5px;
+    
+}
+
+button{
+    margin-top:10px;
+    margin-left: 5px;
+    border: solid 1px var(--primary-color);
+    padding: 10px;
+    border-radius: 8px;
+    background: var(--primary-color);
+    color: white;
+    width: 150px;
+}

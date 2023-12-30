@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "eWsoN93BpDs3fI8/VC8+705v3pXTjQhxnZRDCyH7IA+e/OsLs+FCkCuKnON1QZkeFGA/3db/SYnIj5IXXr36Ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sruthi Abraham\\Source\\Repos\\learn-service\\LocationServices\\LocationServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sruthi Abraham\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Sruthi Abraham\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Sruthi Abraham\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Sruthi Abraham\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Sruthi Abraham\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Sruthi Abraham\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
